@@ -76,7 +76,6 @@ GitHub 저장소 Settings → Secrets and variables → Actions에서 다음 값
 | `AWS_ACCESS_KEY_ID` | AWS IAM 액세스 키 ID |
 | `AWS_SECRET_ACCESS_KEY` | AWS IAM 시크릿 액세스 키 |
 | `AWS_SESSION_TOKEN` | Academy Learner Lab 세션 토큰 |
-| `AWS_S3_BUCKET_NAME` | S3 버킷 이름 |
 
 ### 워크플로우 파일
 
