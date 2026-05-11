@@ -106,6 +106,10 @@ GitHub Actions를 활용한 자동 배포 파이프라인 구축 과정:
 
 **[YouTube 링크](https://youtu.be/bH8Hf7MJ8Ys)**
 
+## AWS Amplify 서비스 활용 영상 링크
+
+**[YouTube 링크](https://youtu.be/QPdaXb5W9FY)**
+
 ## 📋 프로젝트 구조
 
 ```
